@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 
 <div align="top">
-   <img align="right" src="https://github.com/Gurunadh3/American-Sign-Language/blob/main/1.gif" width="300" height="200" />
+   <img align="right" src="https://github.com/Gurunadh3/American-Sign-Language/blob/main/1.gif" width="300" height="250" />
 </div>
 
 <p align="left"> <a href="https://twitter.com/TheHima" target="blank"><img src="https://img.shields.io/twitter/follow/TheHima?logo=twitter&style=for-the-badge" alt="TheHima" /></a> </p>
