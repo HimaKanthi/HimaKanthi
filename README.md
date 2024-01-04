@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurunadh3&show_icons=true&locale=en&theme=highcontrast" alt="Gurunadh3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HimaKanthi&show_icons=true&locale=en&theme=highcontrast" alt="HimaKanthi" /></p>
 </div>
 
 
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurunadh3&layout=compact&langs_count=2&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaKanthi&layout=compact&langs_count=2&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
