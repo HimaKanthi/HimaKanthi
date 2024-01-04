@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 
 <div align="top">
-   <img align="right" src="https://github.com/BadagalaAdarsh/Practice/blob/main/ezgif.com-gif-maker.gif" width="200" height="200" />
+   <img align="right" src="[https://github.com/BadagalaAdarsh/Practice/blob/main/ezgif.com-gif-maker.gif](https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ0MDk1MTgsIm5iZiI6MTcwNDQwOTIxOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDIzMDAxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlNzBlN2EwMjhjZGU0NWIyOWMwYWY4NTZjNjZlNmUwNDM1MDA5YzJhZjg5ZDEyNTM5OTAwNWY5NGE2ZGUwNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y6iu3h95QxD-WuXSKoQ7CdYxnWF8U09mXR_OkVYaqKo)" width="200" height="200" />
 </div>
 
 <p align="left"> <a href="https://twitter.com/TheHima" target="blank"><img src="https://img.shields.io/twitter/follow/TheHima?logo=twitter&style=for-the-badge" alt="TheHima" /></a> </p>
